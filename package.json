@@ -16,7 +16,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@ybd-project/ytdl-core": "^6.0.7",
+    "@hydralerne/youtube-api": "^1.0.3",
     "express": "^4.21.1",
     "nodemon": "^3.1.7"
   }
